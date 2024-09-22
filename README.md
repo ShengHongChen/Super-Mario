@@ -5,7 +5,7 @@ Download and put the HelloMarioAssets folder under the Assets folder.
 # Demo Video
 https://www.youtube.com/watch?v=j6_edpo7kdA
 # Instructions
-Movement : WASD
+Movement : W / A / S / D
 
 Jump : Space
 
